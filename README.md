@@ -18,9 +18,10 @@ Kelas: Sistem Informasi C
      ![Screenshot 2024-10-01 111430](https://github.com/user-attachments/assets/bb01774e-b676-4a89-b204-16cfe75d42f9)
 
   3. Jika harga barang lebih dari > 250000 maka akan mendapatkan diskon sebesar 25%, Jika tidak anda tidak akan mendapat diskon sebesar 25%
+
      ![Screenshot 2024-10-01 111430](https://github.com/user-attachments/assets/7dac3f52-1218-42eb-8799-03dcb3879e1a)
 
-  4. Jika sudah mendapatkan diskon dan Total harga, Anda akan ditanya apakah mau Kembali atau tidak? Jika "Yes" maka akan kembali, Jika "No" maka akan mengakhiri Program.
+  5. Jika sudah mendapatkan diskon dan Total harga, Anda akan ditanya apakah mau Kembali atau tidak? Jika "Yes" maka akan kembali, Jika "No" maka akan mengakhiri Program.
 
      ![Screenshot 2024-10-01 111446](https://github.com/user-attachments/assets/dfe1f9d1-766f-4b92-9965-e0f34fb9912a)
 
