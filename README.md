@@ -33,4 +33,5 @@ Kelas: Sistem Informasi C
 ![Screenshot 2024-10-01 113616](https://github.com/user-attachments/assets/c369bf49-c2e1-43c8-828a-f92d4f933104)
 
   2. Tidak Mendapatkan Diskon
+
 ![Screenshot 2024-10-01 114138](https://github.com/user-attachments/assets/d2a0074d-8ecd-48e8-8f4d-40561855185e)
